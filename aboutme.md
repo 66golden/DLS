@@ -1,4 +1,1 @@
-- Hola for everyone, I’m @66golden. A little about me: I'm 17 yo, preparing for university and starting in programming.
-- I like math, I'm currently learning ML and  data science in general.
-- I'm not looking for any projects from the outside, as I don't have much time.
-- You can text me on telegram(https://t.me/golden_66_1) or instagram(@golden_46_)
+
